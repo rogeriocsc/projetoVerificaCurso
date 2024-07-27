@@ -1,0 +1,89 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+body {
+    background-color: #60BF81;
+}
+
+body, html {
+    font-family: "Poppins", sans-serif;
+}
+
+h2 {
+    text-align: center;
+    padding-top: 20px;
+    color: #191970;
+}
+
+
+
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 90%;
+    height: 95vh;
+    margin: 0px 20px;
+}
+
+.caixaMenu {
+    width: 300px;
+    height: 440px;
+    background-color: white;
+    margin-right: 20px;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+button {
+    width: 160px;
+    height: 40px;
+    margin: 25px auto;
+    border: none;
+    display: block;
+    background-color: red;
+    color: #fff;
+    font-size: 1em;
+    cursor: pointer;
+    border-radius: 10px;
+}
+
+.resp {
+    padding-top: 20px;
+    text-align: center;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 1.1em;
+}
+
+.caixaCurso {
+    width: 600px;
+    height: 440px;
+    display: flex;
+    padding: 10px;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: white;
+    border-radius: 10px;
+}
+
+.curso {
+    width: 200px;
+    border: 4px solid red;
+    border-radius: 10px;
+    padding: 10px;
+    margin: 5px 0px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.c1 {
+    background-color: #347355;
+    color: white;
+}

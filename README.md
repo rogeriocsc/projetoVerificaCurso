@@ -1,9 +1,8 @@
 Sobre
 ___
-Projeto Verifica Curso, projeto de javaScript em que podemos selecionar o curso desejado ou excluir o curso.
-
-<br><br>
-Formulário Html Css Login
+Projeto Verificar Curso, projeto de javaScript em que podemos selecionar o curso desejado ou excluir o curso.
+<br>
+Projeto Verificar Curso
 * [x] Selecionar curso
 * [x] Excluir o curso
 
